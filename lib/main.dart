@@ -15,7 +15,7 @@ class MeuApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Aluno Online",
+      title: "CLOUD",
       theme: ThemeData(primarySwatch: Colors.red),
       routes: {
         '/': (context) => LoginScreen(),

@@ -7,9 +7,9 @@ class LoginScreen extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center ,
           children: [
-            Image.asset("assets/icone-telefone(1).png" ,height: 50,width: 50),
+            Image.asset("assets/telefone.png" ,height: 50,width: 50),
             Text(
-              "Icloud",
+              "PHONE CLOUD",
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontWeight: FontWeight.bold,
