@@ -7,7 +7,7 @@ class LoginScreen extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center ,
           children: [
-            Image.asset("assets/logo_vermelha.png" ,height: 50,width: 50),
+            Image.asset("assets/icone-telefone(1).png" ,height: 50,width: 50),
             Text(
               "Icloud",
               textAlign: TextAlign.center,
